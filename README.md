@@ -1,4 +1,4 @@
-# NEW_PROJECT_NAME_GOES_HERE
+# Docker-Laravel_Nginx_MySQL
 
 Template for new projects
 
@@ -10,7 +10,7 @@ cd ~
 
 ---
 
-REPO_NAME=XXX
+REPO_NAME=Docker-Laravel_Nginx_MySQL
 
 hub delete -y tomnoland/$REPO_NAME
 
