@@ -1,5 +1,7 @@
 # Docker-Laravel_Nginx_MySQL
 
+https://www.digitalocean.com/community/tutorials/how-to-set-up-laravel-nginx-and-mysql-with-docker-compose
+
 Template for new projects
 
 https://github.com/tomnoland/New-Project-Template/generate
